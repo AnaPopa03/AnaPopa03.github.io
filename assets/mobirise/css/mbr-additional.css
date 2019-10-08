@@ -1027,28 +1027,11 @@ section.lazy-placeholder:after {
 .cid-rEdMacchpT .dropdown-item:hover {
   color: #ffffff !important;
 }
-.cid-rEdRvsWCvl {
-  background: #ffffff;
+.cid-rEjTxqP7o6 {
+  background-image: url("../../../assets/images/13397.jpg");
 }
-.cid-rEdRvsWCvl .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-rEdRvsWCvl .mbr-figure {
-  margin: 0 auto;
-}
-.cid-rEdRvsWCvl figcaption {
-  position: relative;
-}
-.cid-rEdRvsWCvl figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-rEdRvsWCvl .image-block {
-    width: 100% !important;
-  }
+.cid-rEjTxqP7o6 H1 {
+  text-align: center;
 }
 .cid-rEdMacchpT .navbar {
   padding: .5rem 0;
