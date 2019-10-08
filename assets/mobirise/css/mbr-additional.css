@@ -1027,8 +1027,18 @@ section.lazy-placeholder:after {
 .cid-rEdMacchpT .dropdown-item:hover {
   color: #ffffff !important;
 }
-.cid-rEjWbgaHNM {
-  background-color: #7f1933;
+.cid-rEjXUgHaJ9 {
+  background-image: url("../../../assets/images/13397.jpg");
+}
+.cid-rEjXUgHaJ9 H1 {
+  color: #efefef;
+}
+.cid-rEjXUgHaJ9 H3 {
+  color: #efefef;
+}
+.cid-rEjXUgHaJ9 .mbr-text,
+.cid-rEjXUgHaJ9 .mbr-section-btn {
+  color: #efefef;
 }
 .cid-rEdMacchpT .navbar {
   padding: .5rem 0;
