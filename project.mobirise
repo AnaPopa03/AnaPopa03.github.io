@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Găuri Negre-clone",
-    "currentPage": "ce se afla intr-o gaura neagra.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -54,7 +54,12 @@
     "versionPublish": "4.11.2",
     "favicon": "",
     "noImageResize": "true",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "": "on",
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
